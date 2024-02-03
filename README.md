@@ -1,3 +1,11 @@
+## Contribution
+Name: Devyaansh Dwivedi
+
+Registration Number: 20BCE10159
+
+College Name: VIT Bhopal University
+
+Front-end Assignment
 # E-Commerce App
 
 A simple and responsive e-commerce web application built with React and React Router. This app allows users to browse through a list of products, view detailed information about each product, add products to the cart, and view the cart with a summary of the price details.
@@ -49,14 +57,7 @@ https://github.com/devyaanshdwivedi/E-Commerce_Frontend/assets/91078095/7b1d8752
 ![image](https://github.com/devyaanshdwivedi/E-Commerce_Frontend/assets/91078095/205b01aa-7357-4f36-8b54-dc6acee25f83)
 ## More Time?
 Would have definitely worked on better design and overall appearence of website. "Cart" option could have been enhanced more.
-## Contribution
-Name: Devyaansh Dwivedi
 
-Registration Number: 20BCE10159
-
-College Name: VIT Bhopal University
-
-Front-end Assignment
 
 
 
