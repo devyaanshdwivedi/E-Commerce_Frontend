@@ -51,7 +51,12 @@ https://github.com/devyaanshdwivedi/E-Commerce_Frontend/assets/91078095/7b1d8752
 Would have definitely worked on better design and overall appearence of website. "Cart" option could have been enhanced more.
 ## Contribution
 Name: Devyaansh Dwivedi
+
 Registration Number: 20BCE10159
+
+College Name: VIT Bhopal University
+
+Front-end Assignment
 
 
 
