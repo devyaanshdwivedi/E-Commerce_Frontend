@@ -3,7 +3,7 @@ Name: Devyaansh Dwivedi
 
 Registration Number: 20BCE10159
 
-College Name: VIT Bhopal University
+College Name: Vellore Institute of Technology
 
 Front-end Assignment
 # E-Commerce App
