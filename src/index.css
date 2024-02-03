@@ -1,0 +1,138 @@
+/* Add this styling to index.css */
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Arial', sans-serif;
+}
+
+.header {
+  background-color: #3498db;
+  color: #ffffff;
+  padding: 10px;
+  text-align: center;
+  font-size: 1.5em;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.login-container {
+  text-align: center;
+}
+
+.login-form {
+  width: 300px;
+  padding: 20px;
+  border: 1px solid #3498db;
+  border-radius: 5px;
+  background-color: #ffffff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.login-form label {
+  display: block;
+  margin-bottom: 8px;
+  font-weight: bold;
+}
+
+.login-form input {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 16px;
+  box-sizing: border-box;
+}
+
+.login-button {
+  width: 100%;
+  padding: 10px;
+  background-color: #3498db;
+  color: #ffffff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.login-button:hover {
+  background-color: #2980b9;
+}
+
+/* Add additional styling for header icons, etc. based on your design */
+/* Add this additional styling to index.css */
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header h1 {
+  font-size: 1.2em;
+}
+
+.header-icons {
+  display: flex;
+  align-items: center;
+}
+
+.header-icons a {
+  margin: 0 10px;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+/* Additional styling for cart icon */
+.cart-icon {
+  font-size: 1.2em;
+  position: relative;
+}
+
+.cart-badge {
+  position: absolute;
+  top: 0;
+  right: 0;
+  background-color: #e74c3c;
+  color: #ffffff;
+  padding: 3px 6px;
+  border-radius: 50%;
+  font-size: 0.8em;
+}
+/* Add this styling to index.css */
+
+/* ... (existing styles) */
+
+.product-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.product-card {
+  width: 180px;
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  text-align: center;
+}
+
+.product-card img {
+  max-width: 100%;
+  height: auto;
+}
+
+.product-icons {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+
+.last-in-row {
+  margin-right: auto; /* Align the last item in the row to the right */
+}
+
+/* ... (existing styles) */
+
